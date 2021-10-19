@@ -1,5 +1,8 @@
 ---
-title: About this website
----
+title: About Us
+feature_image: ''
+feature_text: ''
+aside: false
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+---
+We are a team of highly motivated.
